@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono, Noto_Serif, PT_Serif } from "next/font/google";
-import "./globals.css";
+import "@/app/globals.css";
 import { aboutMe } from "@/data/aboutme";
 import { customMetadata } from "@/data/title-description";
 const geistSans = Geist({
@@ -58,12 +58,12 @@ export default function RootLayout({
             </div>
             <div className="mb-4">
               <p className="text-sm text-neutral-500 dark:text-neutral-500 justify">
-                Built with{" "}
+                Built by{" "}
                 <a
-                  href="https://github.com/tovacinni/research-website-template"
+                  href="https://www.mousuf.com"
                   className="underline hover:text-neutral-800 dark:hover:text-neutral-300 transition-colors"
                 >
-                  research-website-template
+                  mousuf-nayon1
                 </a>
               </p>
             </div>
