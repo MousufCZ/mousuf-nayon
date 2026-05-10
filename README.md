@@ -1,4 +1,4 @@
-# mousuf-zaman-website
+# mousuf-nayon-website
 
 This is a React + Next.js template meant for research websites. See a [demo of the template here](https://tovacinni.github.io/research-website-template/). My own [personal website](https://tovacinni.github.io) is also built with the same template.
 

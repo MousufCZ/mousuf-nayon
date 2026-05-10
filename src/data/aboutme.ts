@@ -23,7 +23,7 @@ export const aboutMe: AboutMe = {
   institution: "London, UK",
   // Note that links work in the description
   description:
-    "<a href='https://www.google.edu'>Hi.</a>.",
+    "<a href='https://mousufcz.github.io'>Hi.</a>.",
   email: "mousuf.nayon@gmail.com",
   imageUrl:
     "https://images.unsplash.com/photo-1581481615985-ba4775734a9b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
