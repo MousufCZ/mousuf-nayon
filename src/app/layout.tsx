@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   title: customMetadata.title || aboutMe.name,
   description: customMetadata.description || aboutMe.description,
   icons: {
-    icon: "/favicon.ico",
+    icon: "/mousuf-zaman-favicon.png",
   },
 };
 
@@ -58,13 +58,13 @@ export default function RootLayout({
             </div>
             <div className="mb-4">
               <p className="text-sm text-neutral-500 dark:text-neutral-500 justify">
-                Built by{" "}
+                {/* Built by{" "}
                 <a
                   href="https://www.mousuf.com"
                   className="underline hover:text-neutral-800 dark:hover:text-neutral-300 transition-colors"
                 >
                   mousuf-nayon1
-                </a>
+                </a> */}
               </p>
             </div>
           </div>
